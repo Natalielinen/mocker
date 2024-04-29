@@ -1,0 +1,11 @@
+{
+  "Базовая конфигурация реакт приложения": "Базовая конфигурация реакт приложения",
+  "Что используется": "Что используется",
+  "typescript": "typescript",
+  "webpack": "webpack",
+  "react": "react",
+  "eslint": "eslint",
+  "i18next": "i18next",
+  "sass": "sass",
+  "jest": "jest"
+}
